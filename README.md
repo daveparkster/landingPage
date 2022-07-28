@@ -39,5 +39,6 @@ A simple landing page
  ```
  ### Future Development
  ```
- N/A
+ 1) Redesign page with Bootstrap or
+    Tailwind.
  ```
